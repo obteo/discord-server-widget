@@ -2,8 +2,6 @@
 
 **Discord Server Widget** is a WordPress plugin that displays live information about your Discord server inside a widget. It uses the Discord API to fetch **member stats, online users, boost level, and channels list**, and includes a direct **invite button** to join your server.
 
-![Discord Server Widget Screenshot](screenshot.png)
-
 ---
 
 ## ✨ Features
